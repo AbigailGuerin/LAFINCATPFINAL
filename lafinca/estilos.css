@@ -1,0 +1,12 @@
+.carousel-item {
+    max-height: 465px;
+
+
+}
+
+#mensaje-exito {
+  border: 1px solid #c3e6cb;
+  background-color: #d4edda;
+  padding: 20px;
+  border-radius: 10px;
+}
